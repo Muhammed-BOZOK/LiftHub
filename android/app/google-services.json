@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764609488893",
+    "project_id": "lifthub-a443b",
+    "storage_bucket": "lifthub-a443b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764609488893:android:cc0f89d4e057dff25fdb94",
+        "android_client_info": {
+          "package_name": "com.example.solution_challenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbATGOguSqSpmUZdssTGJopAxAvO3vQew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
