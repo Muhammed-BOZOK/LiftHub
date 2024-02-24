@@ -1,4 +1,4 @@
-# solution_challenge
+# LiftHub
 
 A new Flutter project.
 
