@@ -36,11 +36,3 @@ We welcome contributions from the community. Feel free to fork this repository a
 ## UI Update
 
 All empty pages in the UI and application will be updated with relevant content.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For further inquiries, please contact us at [contact@lifthub.com](mailto:contact@lifthub.com).
